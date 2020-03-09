@@ -1,3 +1,5 @@
+$BADGE
+
 # Learn an example of Tap for Begin apps
 
 ## Deploy your own
